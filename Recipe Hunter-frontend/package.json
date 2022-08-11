@@ -1,0 +1,19 @@
+{
+  "name": "recipe-hunter-frontend",
+  "version": "1.0.0",
+  "main": "meal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-Abdul-Kadir/MeaL-BD-like-Food-Panda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-Abdul-Kadir/MeaL-BD-like-Food-Panda/issues"
+  },
+  "homepage": "https://github.com/Md-Abdul-Kadir/MeaL-BD-like-Food-Panda#readme",
+  "description": ""
+}
